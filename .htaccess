@@ -3,11 +3,11 @@ AuthName "Protected"
 AuthUserFile C:\xampp\htdocs\kta16e\.htpasswd
 Require valid-user
 
-<files "*.txt">
+# <files "*.txt">
 
-deny from all
+# deny from all
 
-</files>
+# </files>
 
 
 # http://www.htaccesstools.com/
